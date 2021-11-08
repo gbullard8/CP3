@@ -23,7 +23,7 @@
   </div>
   <router-view />
   <footer>
-<a href='https://github.com/BYUCS260/grocery-store-gbullard8.git'> github</a>
+<a href='https://github.com/gbullard8/CP3.git'> github</a>
 </footer>
 </div>
 </template>
